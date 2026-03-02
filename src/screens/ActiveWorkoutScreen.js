@@ -80,7 +80,7 @@ export default function ActiveWorkoutScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f6fa',
+    backgroundColor: '#f5f6fab6',
     padding: 20,
   },
   title: {
